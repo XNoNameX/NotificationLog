@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<NLog>Notification Log</NLog>
+
+	<NLog_Letter_Oldest>&lt;b&gt;&lt;color=orange&gt;[Oldest Notification]&lt;/color&gt;&lt;/b&gt;</NLog_Letter_Oldest>
+
+	<NLog_Letter_MostRecent>&lt;b&gt;&lt;color=orange&gt;[Latest Notification]&lt;/color&gt;&lt;/b&gt;</NLog_Letter_MostRecent>
+
+</LanguageData>

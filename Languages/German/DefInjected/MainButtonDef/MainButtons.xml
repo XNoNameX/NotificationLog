@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NLog_OldNotifications.label>Alte Benachrichtigungen</NLog_OldNotifications.label>
+  <NLog_OldNotifications.description>Gewährt Zugriff auf alte Benachrichtigungen, die man aus Versehen geschlossen hat.</NLog_OldNotifications.description>
+
+</LanguageData>

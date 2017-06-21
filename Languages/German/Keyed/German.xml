@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NLog>Benachrichtigungsprotokoll</NLog>
+
+  <NLog_Letter_Oldest>&lt;b&gt;&lt;color=orange&gt;[Älteste Benachrichtigung]&lt;/color&gt;&lt;/b&gt;</NLog_Letter_Oldest>
+
+  <NLog_Letter_MostRecent>&lt;b&gt;&lt;color=orange&gt;[Neuste Benachrichtigung]&lt;/color&gt;&lt;/b&gt;</NLog_Letter_MostRecent>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NLog>通知記録</NLog>
+
+  <NLog_Letter_Oldest>&lt;b&gt;&lt;color=orange&gt;[通知歴]&lt;/color&gt;&lt;/b&gt;</NLog_Letter_Oldest>
+
+  <NLog_Letter_MostRecent>&lt;b&gt;&lt;color=orange&gt;[最終通知]&lt;/color&gt;&lt;/b&gt;</NLog_Letter_MostRecent>
+
+</LanguageData>

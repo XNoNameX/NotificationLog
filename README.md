@@ -1,5 +1,5 @@
-![Notification Log](http://i.imgur.com/kq3XjGT.png)
+![Notification Log]
 
-Presented as a tab at the bottom of the screen titled "**Old Notifications**". Allows you to browse and re-open previously received notifications.
+Japanese translation for "Notification Log" Mod.
 
-Each notification can be opened as many times as you want. The list is stored per save file.
+by Proxyer
